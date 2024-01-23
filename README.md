@@ -1,1 +1,1 @@
-build a cminus(part of c language) compiler.
+Build a cminus(part of c language) compiler.
